@@ -1,0 +1,14 @@
+{
+    "name": "Better HQ",
+    "version": "1.0",
+    "description": "Improve hq visuals",
+    "manifest_version": 2,
+    "permissions": ["storage"],
+    "content_scripts": [
+        {
+          "matches": ["https://*.heimdallsquest.no/*"],
+          "css": ["betterhq.css"],
+          "js": ["betterhq.js"]
+        }
+      ]
+  }
