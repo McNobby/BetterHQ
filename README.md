@@ -3,7 +3,7 @@
 
 Currently a WIP
 
-##Planned Features
+## Planned Features
 
 - Customize bacground images
 - Possibly change color theme
